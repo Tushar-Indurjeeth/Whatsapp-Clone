@@ -9,11 +9,11 @@ const app = express();
 const port = process.env.PORT || 8000;
 
 const pusher = new Pusher({
-    appId: "1167682",
-    key: "7f262c9b9723829f0b4b",
-    secret: "43da2f1641c33a8dbcd2",
-    cluster: "mt1",
-    useTLS: true
+    appId: "",
+    key: "",
+    secret: "",
+    cluster: "",
+    useTLS: 
 });
 
 // middleware
