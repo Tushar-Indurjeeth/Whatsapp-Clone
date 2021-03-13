@@ -3,7 +3,7 @@ A WhatsApp Clone built using the [MERN Stack](https://www.mongodb.com/mern-stack
 
 ## How it works
 - The data is stored on mongoDB's cloud database [mongoDB Atlas](https://www.mongodb.com/cloud/atlas).
-- Messages sent are stored on MongoDb and are showed in real time using [Pusher](https://pusher.com/)
+- Messages sent are stored on MongoDb and are showed in real time using [Pusher](https://pusher.com/).
 
 ## Front-end
 - [React](https://reactjs.org/)
