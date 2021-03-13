@@ -1,5 +1,8 @@
 # Whatsapp-Clone
-A WhatsApp Clone built using the [MERN Stack](https://www.mongodb.com/mern-stack).
+A WhatsApp Clone with real-time messaging build using the [MERN Stack](https://www.mongodb.com/mern-stack).
+
+## Live demo
+[https://whatsapp-clone-d3f55.web.app/](https://whatsapp-clone-d3f55.web.app/)
 
 ## How it works
 - The data is stored on mongoDB's cloud database [mongoDB Atlas](https://www.mongodb.com/cloud/atlas).
