@@ -1,5 +1,5 @@
 # Whatsapp-Clone
-A WhatsApp Clone with real-time messaging build using the [MERN Stack](https://www.mongodb.com/mern-stack).
+A WhatsApp Clone with real-time messaging built using the [MERN Stack](https://www.mongodb.com/mern-stack).
 
 ## Live demo
 [https://whatsapp-clone-d3f55.web.app/](https://whatsapp-clone-d3f55.web.app/)
